@@ -1,0 +1,2 @@
+# manto-shop-bot
+mantoshop
