@@ -9,7 +9,7 @@ BOT_TOKEN = "8535273450:AAEnhIlZpRqVZDQM_k2Sapnq_T2yUzW0W54"
 ADMIN_ID = 808015351  # آیدی تلگرام خودتون رو بذارید
 
 # username کانال بدون @ - مثال: mychannel
-CHANNEL_USERNAME = "manto_omdeh_erfan"  # بدون @
+CHANNEL_USERNAME = "mantomantoerfan"  # بدون @
 
 # تنظیمات دیتابیس
 DATABASE_NAME = "shop_bot.db"
